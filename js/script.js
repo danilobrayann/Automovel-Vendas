@@ -102,7 +102,18 @@ const ButtonCarroBranco =() =>{
     //spancor.style.color = 'red'
 }
 
+const ButtonCarroAzulEscuro =() =>{
+    const imagemCarro = document.querySelector('.imagem-carro');
 
+    imagemCarro.src = './img/Touring_azul_cosmico_0.jpg'
+
+    const corNav = document.querySelector('.container-fluid')
+
+    corNav.style.backgroundColor ='MediumBlue'
+
+    const ptextocar = document.querySelector(".ptexto-car")
+    ptextocar.innerHTML ='A partir de R$ 158.990,80*'
+}
 
 
   

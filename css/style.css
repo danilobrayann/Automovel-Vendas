@@ -222,3 +222,19 @@ h2{
     font-weight: bold;
 }
 
+
+.button-carro-AzulEscuro{
+
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 30px;
+    border-radius: 120px;
+    background-color: #262C36;
+    margin-left: 1%;
+    display: inline-block;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
