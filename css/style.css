@@ -112,7 +112,7 @@ h2{
     margin-top: 15%;
     background-color: white;
     border-top-right-radius: 100px;
-    border-bottom-left-radius: 100px;
+    border-bottom-left-radius: 500px;
     border-top-left-radius: 100px;
     border-bottom-right-radius: 100px;
   
@@ -221,3 +221,4 @@ h2{
     margin-left: 2%;
     font-weight: bold;
 }
+

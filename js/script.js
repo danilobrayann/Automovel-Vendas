@@ -42,6 +42,8 @@ const ButtonCliquerVermelho = () =>{
     const corNav = document.querySelector('.container-fluid')
 
     corNav.style.backgroundColor ='red'
+
+   
     
     
 }
@@ -54,6 +56,12 @@ const CarroVermelho= () =>{
     const corNav = document.querySelector('.container-fluid')
 
     corNav.style.backgroundColor ='Crimson'
+
+    const ptextocar = document.querySelector(".ptexto-car")
+    ptextocar.innerHTML ='A partir de R$ 148.500,00*'
+
+    //const spancor = document.querySelector("#span-cor")
+    //spancor.style.color = 'red'
 }
 
 
@@ -69,6 +77,12 @@ const ButtonCarroPreto = () =>{
     const corNav = document.querySelector('.container-fluid')
 
     corNav.style.backgroundColor ='DimGray'
+
+    const ptextocar = document.querySelector(".ptexto-car")
+    ptextocar.innerHTML ='A partir de R$ 148.780,00*'
+
+    //const spancor = document.querySelector("span")
+    //spancor.style.color = 'red'
 }
 
 
@@ -80,6 +94,12 @@ const ButtonCarroBranco =() =>{
     const corNav = document.querySelector('.container-fluid')
 
     corNav.style.backgroundColor ='darkgray'
+
+    const ptextocar = document.querySelector(".ptexto-car")
+    ptextocar.innerHTML ='A partir de R$ 148.950,50*'
+
+    //const spancor = document.querySelector("#span-cor")
+    //spancor.style.color = 'red'
 }
 
 
